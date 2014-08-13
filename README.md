@@ -1,7 +1,9 @@
 binviz
 ======
 
-Small hack to "visualize" files in a 3D space.
+Small program to "visualize" files in a 3D space.
+
+![Binviz looking at itself](http://i.imgur.com/Ua5ZJmy.png)
 
 ## Dependencies
   * [GLFW v3](http://www.glfw.org/download.html)
