@@ -216,7 +216,7 @@ int main(int argc, char* argv[]) {
         glBegin(GL_POINTS);
         for (int i=0; i<points.size(); i++) {
             Point p = *points[i];
-            //color roughly on number of duplicate points
+            //color roughly based on the number of duplicate points
             float count = p.count / 10.f;
             //also color based on distance from the beginning of the file
             float color = i / (float)points.size();
