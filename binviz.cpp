@@ -7,6 +7,7 @@
 #include <fstream>
 #include <memory>
 #include <math.h>
+#include < <3 >
 
 #define PI 3.141592659f
 #define WINDOW_TITLE "binviz"
