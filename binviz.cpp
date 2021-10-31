@@ -8,7 +8,7 @@
 #include <memory>
 #include <math.h>
 
-#define PI 3.141592659f
+#define PI 3.14159265358979323846264f
 #define WINDOW_TITLE "binviz"
 #define WINDOW_WIDTH 640
 #define WINDOW_HEIGHT 480
