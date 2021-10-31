@@ -126,7 +126,6 @@ int loadFile(const char* filename) {
       float radius = z;
 
       // convert the spherical coordinates into the cartesian plane
-      // for more information, look at
       // http://en.wikipedia.org/wiki/Spherical_coordinate_system
       x = radius * sin(xRot) * cos(yRot);
       y = radius * sin(xRot) * sin(yRot);
